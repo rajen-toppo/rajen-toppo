@@ -20,7 +20,7 @@ To build strong skills in MIS Reporting and Data Analytics, and contribute to da
 
 ## 🌐 Let's connect:
 
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/rajen-toppo-58a460332/) | [Email](mailto:rajentoppo999@email.com) | [GitHub](https://github.com/rajen-toppo) 
+[LinkedIn](https://www.linkedin.com/in/rajen-toppo-58a460332/) | [Email](mailto:rajentoppo999@email.com) | [GitHub](https://github.com/rajen-toppo)
 
 
 ## 💻 Tech Stack:
