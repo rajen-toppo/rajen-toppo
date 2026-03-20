@@ -1,7 +1,9 @@
-## 👋 Hey there, welcome to my GitHub!
+## 👋 Welcome to my GitHub profile.
 
-Here you'll find my work and projects in data analytics.
-I’m Rajen Toppo, passionate about data analytics and building practical solutions using Excel, SQL, and Power BI. I enjoy working with data, creating reports, and turning raw information into meaningful insights.
+  Here you'll find my work and projects in data analytics.
+  
+I’m Rajen Toppo, passionate about data analytics and building practical solutions using Excel, SQL, and Power BI. 
+I enjoy working with data, creating reports, and turning raw information into meaningful insights.
 
 💼 What you'll find here:
 🛠️ Projects based on Excel, SQL, and Power BI  
@@ -31,7 +33,7 @@ To build strong skills in MIS Reporting and Data Analytics, and contribute to da
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 📌 Featured Projects:
-- Sales Dashboard (Excel)
+- Sales Dashboard with Insights (Excel)
 - Customer Data Analysis (SQL)
 - Power BI Report Dashboard
 
