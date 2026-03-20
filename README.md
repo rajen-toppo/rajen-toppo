@@ -22,7 +22,11 @@ To build strong skills in MIS Reporting and Data Analytics, and contribute to da
 LinkedIn | Email | GitHub  
 
 💻 Tech Stack:
-Excel | SQL | Power BI  
+## 💻 Tech Stack:
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 📌 Featured Projects:
 - Sales Dashboard (Excel)
