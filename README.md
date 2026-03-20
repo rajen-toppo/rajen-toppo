@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hey there, I’m so glad you’re here!
 
-👋 Hey there, welcome to my GitHub!
+Welcome to my GitHub profile.
 
 I’m Rajen Toppo, passionate about data analytics and building practical solutions using Excel, SQL, and Power BI. I enjoy working with data, creating reports, and turning raw information into meaningful insights.
 
