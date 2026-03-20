@@ -1,7 +1,6 @@
-## 👋 Hey there, I’m so glad you’re here!
+## 👋 Hey there, welcome to my GitHub!
 
-Welcome to my GitHub profile.
-
+Here you'll find my work and projects in data analytics.
 I’m Rajen Toppo, passionate about data analytics and building practical solutions using Excel, SQL, and Power BI. I enjoy working with data, creating reports, and turning raw information into meaningful insights.
 
 💼 What you'll find here:
@@ -20,7 +19,9 @@ To build strong skills in MIS Reporting and Data Analytics, and contribute to da
 
 ## 🌐 Let's connect:
 
-[LinkedIn](https://www.linkedin.com/in/rajen-toppo-58a460332/) | [Email](mailto:rajentoppo999@email.com) | [GitHub](https://github.com/rajen-toppo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajen-toppo-58a460332/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajentoppo999@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajen-toppo)
 
 
 ## 💻 Tech Stack:
